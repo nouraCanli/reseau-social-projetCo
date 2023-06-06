@@ -1,0 +1,9 @@
+.mukta {
+  font-family: "Mukta", sans-serif;
+}
+
+.email-input {
+  background: url("../img/icon-email.svg") no-repeat scroll 7px 7px;
+  padding-left: 30px;
+  border: solid 1px red;
+}
